@@ -1,6 +1,9 @@
 # Machine Learning with Python (Coursera)
 
-## 6. Hierarchical clustering
+## 5. K-Means Classification
+K-means is vastly used for clustering in many data science applications, especially useful if you need to quickly discover insights from unlabeled data.
+
+## 6. Hierarchical Clustering
 An application of Agglomerative Hierarchical Clustering (bottom up approach).
 
 ## 7. Density-Based Clustering
