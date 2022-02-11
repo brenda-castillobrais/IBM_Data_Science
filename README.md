@@ -1,5 +1,8 @@
 # IBM Data Science (Coursera)
 
+## Collaborative Filtering movies
+A recommender system based on similar users' preferences.
+
 ## The best classifier
 Final project of the course 'Machine Learning with Python'.
 
