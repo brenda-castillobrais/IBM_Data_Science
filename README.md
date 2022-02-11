@@ -1,9 +1,9 @@
 # IBM Data Science (Coursera)
 
-## Content-based Filtering movies
+## 8. Content-based Filtering movies
 A recommender system based on the principle: "show me more of the same I liked before".
 
-## Collaborative Filtering movies
+## 9. Collaborative Filtering movies
 A recommender system based on similar users' preferences.
 
 ## The best classifier
