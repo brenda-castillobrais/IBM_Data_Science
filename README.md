@@ -12,7 +12,7 @@ A recommender system based on the principle: "show me more of the same I liked b
 ## 9. Collaborative Filtering movies
 A recommender system based on similar users' preferences.
 
-## The best classifier
+## 10. The best classifier
 Final project of the course 'Machine Learning with Python'.
 
 In this project, I build a classifier to predict whether a loan case will be paid off or not. I load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. 
