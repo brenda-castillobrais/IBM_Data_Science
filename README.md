@@ -1,4 +1,4 @@
-# IBM Data Science (Coursera)
+# Machine Learning with Python (Coursera)
 
 ## 8. Content-based Filtering movies
 A recommender system based on the principle: "show me more of the same I liked before".
