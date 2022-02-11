@@ -1,21 +1,18 @@
 # Machine Learning with Python (Coursera)
 
-## 5. K-Means Classification
-K-means is vastly used for clustering in many data science applications, especially useful if you need to quickly discover insights from unlabeled data.
+## Regression
+Simple, multiple, polynomial and non-linear regressions.
 
-## 6. Hierarchical Clustering
-An application of Agglomerative Hierarchical Clustering (bottom up approach).
+## Classification
+KNN, decision trees, logostic regression and SVM.
 
-## 7. Density-Based Clustering
-Density-based Clustering locates regions of high density that are separated from one another by regions of low density. Density, in this context, is defined as the number of points within a specified radius. In this lab, the main focus will be manipulating the data and properties of DBSCAN and observing the resulting clustering. 
+## Clustering
+K-means, agglomerative hierarchical clustering (bottom up approach) and density-based.
 
-## 8. Content-based Filtering movies
-A recommender system based on the principle: "show me more of the same I liked before".
+## Recommender systems 
+Collaborative filtering (based on similar users' preferences) and content-nased.
 
-## 9. Collaborative Filtering movies
-A recommender system based on similar users' preferences.
-
-## 10. The best classifier
+## The best classifier
 Final project of the course 'Machine Learning with Python'.
 
 In this project, I build a classifier to predict whether a loan case will be paid off or not. I load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. 
