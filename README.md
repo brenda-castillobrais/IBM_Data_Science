@@ -1,9 +1,9 @@
-## IBM Data Science (Coursera)
+# IBM Data Science (Coursera)
 
-# The_best_classifier
-In this project, I build a classifier to predict whether a loan case will be paid off or not. 
+## The best classifier
+Final project of the course 'Machine Learning with Python'.
 
-I load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. 
+In this project, I build a classifier to predict whether a loan case will be paid off or not. I load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. 
 
 Models applied:
 
@@ -15,7 +15,7 @@ Models applied:
 
 * Logistic Regression
 
-The results is reported as the accuracy of each classifier, using the following metrics when these are applicable:
+The results are reported as the accuracy of each classifier, using the following metrics when these are applicable:
 
 * Jaccard index
 
