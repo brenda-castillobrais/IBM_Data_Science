@@ -1,5 +1,6 @@
 # Machine Learning with Python (Coursera)
-This course dives into the basics of machine learning using Python.
+This course dives into the basics of machine learning using Python. 
+Here, there are several applications of different machine learning models.
 
 ## Regression
 Simple, multiple, polynomial and non-linear regressions.
