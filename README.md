@@ -12,7 +12,7 @@ KNN, decision trees, logostic regression and SVM.
 K-means, agglomerative hierarchical clustering (bottom up approach) and density-based.
 
 ## Recommender systems 
-Collaborative filtering (based on similar users' preferences) and content-nased.
+Collaborative filtering (based on similar users' preferences) and content-based.
 
 ## The best classifier
 Final project of the course 'Machine Learning with Python'.
